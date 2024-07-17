@@ -8,7 +8,7 @@ random.seed(42)
 # Generate data
 end_date = datetime(2024, 4, 30)  # Today is April 30, 2024
 start_date = end_date - timedelta(days=90)  # 3 months of data
-users = 10000  # Increased number of users
+users = 10000  
 days = 90
 
 # Create CSV file
