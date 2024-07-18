@@ -1,4 +1,4 @@
-# QuickLog-Engagement-Boost - A/B testing project
+# QuickLog Engagement Boost - A/B testing project
 
 ### Goal:
 To determine if adding a "Quick Log" button to the home screen of the FitTrack fitness app increases the number of users who log their workouts daily, thereby improving user engagement.
